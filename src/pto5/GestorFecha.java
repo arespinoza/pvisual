@@ -17,6 +17,7 @@ import java.util.Locale;
  */
 public class GestorFecha {
     //comentario gestor fecha
+    //agregado segunda vez
 
     public int edadEnSemana(Date fecha){
        int semanas = 0;
